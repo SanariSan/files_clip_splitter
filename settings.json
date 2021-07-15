@@ -1,0 +1,6 @@
+{
+	"READ_FOLDER": "clip_2",
+	"WRITE_FOLDER": "CLIPPED_test",
+	"WRITE_FILE_NAME": "file.csv",
+	"LINES": 300000
+}
